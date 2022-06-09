@@ -11,7 +11,7 @@ const chalk = require("chalk")
 global.thum = fs.readFileSync("./media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./media/image/mans.jpg")
 global.err4r = fs.readFileSync("./media/image/error.jpg")
-global.owner = ['6283152753417','6283121365947','6288292024190']
+global.owner = ['6285876810596','6285876810596','6285876810596']
 global.rkyt = []
 global.ntilink = ['120363043965529911@g.us']
 global.ntihide = ['120363043965529911@g.us']
@@ -31,7 +31,7 @@ global.autred = true
 global.anticals = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Success',
+    success: '✅Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
@@ -44,7 +44,7 @@ global.mess = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 5
 }
 
 let file = require.resolve(__filename)
