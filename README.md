@@ -141,7 +141,7 @@ npm start
 -   [`Nurutomo`](https://github.com/Nurutomo)
 -   [`MhankBarBar`](https://github.com/MhankBarBar)
 -   [`DikaArdnt`](https://github.com/DikaArdnt)
--   [`RzkyFdlh`](https://github.com/Rizky878)
+-   [`Rizki Muhammad Adam`](https://github.com/MasRiizzz)
 -   [`Zawhazein`](https://github.com/zhwzein)
 -   [`YogiPw`](https://github.com/yogipw)
 -   [`ZackMans`](https://github.com/ZackMans)
